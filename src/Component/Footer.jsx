@@ -1,6 +1,6 @@
 function Footer(){
     return(
-        <div style  = {{marginLeft : "0px",width  :"740px",height  :"250px",backgroundColor : "black",margin : "12px",padding  : "30px",borderRadius : "5px"}}>
+        <div style  = {{marginLeft : "-0px",width  :"740px",height  :"250px",backgroundColor : "black",margin : "12px",padding  : "30px",borderRadius : "5px"}}>
             <div style = {{color : "white",display  :"flex",justifyContent  :"space-around",flexDirection : "row",marginLeft : "-50px"}}>
             <h5>About flex Bussiness Pro</h5>
             <h5>Recent Photos</h5>
